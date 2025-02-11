@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mechaadi",
+  "private_key_id": "d0ebc47b075b7f193e6fc47c67f742520f82a08d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMb3/HMYJ3v4ut\njk3euLb7D5hJtxkbTGNDwucBMGblSK7bE/oXV8E5qQQ/jQuaHrn3JQ/K3CRfcJ1P\nYzbjgrEvTyQJvdLvLiWopPEeEpcIvinTFsdprUwQwQwFuPxq4q+0wn2NMc1b8+rc\nJFdSdHN+JCEnjNKXBxswWvyVu9cEcOSed9RWcISlftjMVz7/dhWIfpgL3LpQP9k1\n9qLTiY7ci4dP5xWR4LrLmvL+J2J8hWUw9HnYsTbHaFn3ZOLxyJadprJGWVAsyqae\nUldq2b+vNsTQ7/+ERc/i65F4cuhmOIcXZ23zpCdKEEjAxYUpVlKLXnXXXaTM9fjM\nD5lFylI1AgMBAAECggEACnUvs6hgNLD7O7MaX6jST3CCSU8Q/TkAoPBA8eogcV0w\n+KsCcZw/GayAN6IG9Gja+X4PW0C8qZcwrOV14tiGKNXjEY6A0lRpf8GERhYMXNmh\neRditxCy4e6GJ2rJmswi0dvbIVRpXWlSW9WOE/06BTti6MuG4EvwQ5576kr0Gll2\nhP8F7OZ8yQckO+dP/FiO4sGjqF5cFxpdysDwZD9ofT3xzO36e5ung0dQpltZ1KR/\noDhpmwXHbq/fWCfb90i2itqEARvXZomtoK8YLMNQyzrObS53UGo/nrCSDU3raUKC\neGDf7esFts9ESS4SMWKmwyo54ZQpOnn8AsV/Y2JgEQKBgQD/IbTCfWoRz0RT5w2h\n/DMCOpPJF0CuNc+BUEbLCVopXJvX9v9IHdLJZqqKgwzyE8Rw70uNfrgsb0XzP/JP\nlmXa2HbqYYDhpWqYDOPVGrPh//1aBUtfC/5hya3qL4g3fG4soRZUl0LxaLRe84DS\nAoy0EnbW8NQv/hma8ZtlgWyUuQKBgQDNIZ85aJcja5idLMvHa0zohKqE4oK8nUle\nfkbMIWeUfQokCVDriG6u2dKYO0P3Enqa74ffTHc681pVTdzv5T3dSaFXIzS2laYR\nNouTPOfbRpBhXadC+ZdqXJOeDgGoxGEv0rmwpc3wNrtlNITt1pUSSaNjgbL5IYse\nm2EPxZsjXQKBgQCZEwcaPhca8mnDkXirfN658p1i5LGpFJ4YryqafVT8RhU3IXoP\nMd2bex7Nlk15HQUa4WhKUAJ+npCwnuhqeglIoeHPRIsIV7A55Fn6LVhKO8YtccnE\nEDUjRNc1ECnBaMXNvyTfwhWnNDQsWBstZdw32nA1DC+zT9jbDyU2ZM3Z+QKBgDwG\n/Lsl+iRpVg2YkEFZCvZ37BZa2nsrY879EOanV9JCDPeiqkVidVFBeLkHjsn8ZFh2\ng8I6dCGSGPshf+fLo6Df7RC8wq4zeJdM6Oc7SXYHXjS/3TRiKYb8dE4qNx4V6YK/\nHYut2WfT/F6PUd7vjkv9tIxn5eG1iSp5uZuN7eoZAoGAYBwy+5NlyQG98G+/0k45\nl9tduNHZl4oaKxlNp9R2DBv8ZHVX9kOgbVk8EFVzt3Hb80We9cv3WGprCXAUJvo9\n2gXkNqOaiLQeQrXSteIzV2k2hSF7DuDf2RvG9Mq1KFaoay9ZbGwpFGeOkMngOpiM\nx1jOhh0GFKCfix25wYcLupQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "solana-vanity@mechaadi.iam.gserviceaccount.com",
+  "client_id": "117434181461912506436",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/solana-vanity%40mechaadi.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

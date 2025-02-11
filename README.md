@@ -12,10 +12,27 @@ Activate the virtual environment
 source venv/bin/activate
 ```
 
-Run the fastapi server
+Now that all the packages are installed, you can either run the socketio server or the pubsub based server
+
+#### FAST API SERVER
+
+Run the fastapi-socketio server
 ```
-python3 main.py
+python3 socketio.py
+```
+Once the fast api server is up and running, you can connect with a postman socket-io request.
+
+
+#### GOOGLE PUB/SUB BASED SERVER
+
+Run the google pubsub based server
+```
+python3 pubsub.py
+```
+Once the pubsub based server is running, you can publish to `generate` topic using the `publisher.py` script
+```
+python3 publisher.py
 ```
 
-Once the fast api server is up and running, you can connect with a postman socket-io request.
+Running the publisher will send the generation payload via the `generate` topic while also listening to `on_generate` and `on_error` topic.
 

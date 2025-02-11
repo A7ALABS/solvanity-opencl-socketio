@@ -7,3 +7,4 @@ siphash24
 fastapi
 fastapi_socketio
 uvicorn
+google-cloud-pubsub
