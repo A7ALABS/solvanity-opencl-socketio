@@ -18,7 +18,7 @@ Now that all the packages are installed, you can either run the socketio server 
 
 Run the fastapi-socketio server
 ```
-python3 socketio.py
+python3 socketapp.py
 ```
 Once the fast api server is up and running, you can connect with a postman socket-io request.
 
