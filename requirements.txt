@@ -1,0 +1,9 @@
+click>=8.1.0
+pyopencl
+base58
+PyNaCl
+numpy==1.26.4
+siphash24
+fastapi
+fastapi_socketio
+uvicorn
