@@ -1,3 +1,12 @@
+This repository was made using [SolVanityCL](https://github.com/WincerChan/SolVanityCL), credit for all the original work goes to `SolVanityCL`. This project uses `SolVanityCL` to generate the address and only acts as a wrapper around it to create a pubsub system.
+
+This repository is made to reproduce an issue on linux operating systems when used with google pub/sub package.
+
+## Attribution
+Original project: [SolVanityCL](https://github.com/WincerChan/SolVanityCL)
+Original Author's name: [WincerChan](https://github.com/WincerChan)
+Original License: Refer to LICENSE.SolVanityCL file
+
 ## Installation
 Requires Python 3.6 or higher.
 
