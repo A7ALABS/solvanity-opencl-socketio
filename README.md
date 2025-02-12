@@ -3,10 +3,9 @@ This repository was made using [SolVanityCL](https://github.com/WincerChan/SolVa
 This repository is made to reproduce an issue on linux operating systems when used with google pub/sub package.
 
 ## Attribution
-Original project: [SolVanityCL](https://github.com/WincerChan/SolVanityCL)
-Original Author's name: [WincerChan](https://github.com/WincerChan)
-Original License: Refer to LICENSE.SolVanityCL file
-
+- Original project: [SolVanityCL](https://github.com/WincerChan/SolVanityCL)
+- Original Author's name: [WincerChan](https://github.com/WincerChan)
+  
 ## Installation
 Requires Python 3.6 or higher.
 
